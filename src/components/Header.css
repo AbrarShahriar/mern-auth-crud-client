@@ -1,0 +1,12 @@
+header > * {
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.2);
+    display: flex;
+    margin-bottom: 20px;
+}
